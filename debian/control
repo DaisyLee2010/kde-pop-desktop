@@ -323,12 +323,11 @@ Recommends:
     gstreamer1.0-vaapi,
     libreoffice-gnome,
 
-Package: pop-desktop-raspi
+Package: pou-desktop-raspi
 Architecture: arm64
 Depends: ${misc:Depends},
 # First to avoid dependency issues
     pop-desktop,
-    pop-hardware-raspi
 # Hardware
     libraspberrypi-bin,
     libraspberrypi0,
