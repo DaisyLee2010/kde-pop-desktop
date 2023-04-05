@@ -138,7 +138,6 @@ Depends: ${misc:Depends},
     strace,
     tcpdump,
     telnet,
-    tnftp,
     xdg-user-dirs-gtk,
     xdg-utils,
 Recommends:
