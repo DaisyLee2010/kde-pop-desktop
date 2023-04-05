@@ -149,7 +149,6 @@ Recommends:
     git,
     mtr-tiny,
     neovim,
-    nano,
 # Plugins
     brltty,
 # Desktop
