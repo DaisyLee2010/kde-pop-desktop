@@ -137,7 +137,6 @@ Depends: ${misc:Depends},
     resolvconf,
     strace,
     tcpdump,
-    telnet,
     xdg-user-dirs-gtk,
     xdg-utils,
 Recommends:
