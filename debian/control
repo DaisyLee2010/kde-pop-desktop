@@ -147,7 +147,6 @@ Recommends:
     build-essential,
     curl,
     git,
-    mtr-tiny,
     neovim,
 # Plugins
     brltty,
