@@ -154,8 +154,8 @@ Recommends:
 # Plugins
     brltty,
 # Desktop
-    flatpak,
     dbus-broker,
+    flatpak,
 
 Package: pop-container-runtime
 Architecture: linux-any
