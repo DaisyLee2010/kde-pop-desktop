@@ -135,7 +135,6 @@ Depends: ${misc:Depends},
     net-tools,
     policykit-desktop-privileges,
     resolvconf,
-    strace,
     xdg-user-dirs-gtk,
     xdg-utils,
 Recommends:
