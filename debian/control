@@ -150,7 +150,6 @@ Recommends:
     mtr-tiny,
     neovim,
     nano,
-    time,
 # Plugins
     brltty,
 # Desktop
