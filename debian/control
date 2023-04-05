@@ -136,7 +136,6 @@ Depends: ${misc:Depends},
     policykit-desktop-privileges,
     resolvconf,
     strace,
-    tcpdump,
     xdg-user-dirs-gtk,
     xdg-utils,
 Recommends:
