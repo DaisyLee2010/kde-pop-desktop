@@ -139,7 +139,6 @@ Depends: ${misc:Depends},
     tcpdump,
     telnet,
     tnftp,
-    ufw,
     xdg-user-dirs-gtk,
     xdg-utils,
 Recommends:
