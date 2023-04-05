@@ -16,7 +16,7 @@ Homepage: https://github.com/system76/pop-desktop
 #   - pop-container-runtime
 #
 
-Package: pop-dekstop
+Package: pop-desktop
 Architecture: linux-any
 Essential: yes
 Depends: ${misc:Depends},
